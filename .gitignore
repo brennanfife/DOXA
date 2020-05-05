@@ -1,0 +1,12 @@
+node_modules/
+.vscode/
+client/node_modules
+client/.storybook
+
+# misc
+.DS_Store
+.env
+
+# Environment Variables
+*.env
+.env.build
