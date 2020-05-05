@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="client/src/assets/images/doxa.png" alt="DOXA" width="300" />
+  <img src="assets/doxa.png" alt="DOXA" width="300" />
 </p>
 
 <h2 align="center">Loseless Ethereum Savings</h2>
